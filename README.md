@@ -1,1 +1,2 @@
-# serenity-mango
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
